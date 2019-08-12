@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "X",
+        "X"
+        "#"
+
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:stick"
+        },
+        "X": {
+            "item": "tutorialmod:god_rock"
+        }
+    },
+    "result": {
+        "item": "tutorialmod:god_dagger",
+        "count": 1
+    }
+}
